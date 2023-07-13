@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra qualquer contato me segue nas redes abaixo!
+  ### Pra qualquer contato me chame nas redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
