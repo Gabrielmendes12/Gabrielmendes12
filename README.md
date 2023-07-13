@@ -15,7 +15,6 @@
  
  <br>
  
-  ### Pra qualquer contato me chame nas redes abaixo!
  
 <div>
  
