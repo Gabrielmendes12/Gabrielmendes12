@@ -15,6 +15,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
           
 </div>
+<br>
 
 ### Para qualquer contato escolha uma das redes abaixo:
 <div>
