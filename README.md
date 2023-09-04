@@ -15,7 +15,8 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
           
 </div>
- ### Pra qualquer contato me chame nas redes abaixo!
+
+### Para qualquer contato escolha uma das redes abaixo:
 <div>
 <a href="https://www.instagram.com/gabrielmendes_12_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFrCWftgKTdVQXFJDRPTwwGmxcvsTXJBvCWPmztHcGzwgQxwQSrnsCbglQNWgkFshxxMXr"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
